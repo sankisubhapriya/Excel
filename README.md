@@ -1,5 +1,3 @@
 # Excel
 Created MS Excel Projects - Hospital Emergency Room Dashboard
-Using a Power Privot for Data Cleansing
-Privot Table for Various Visulaization
-Slicer for dynamic changes with in a Dashboard
+
